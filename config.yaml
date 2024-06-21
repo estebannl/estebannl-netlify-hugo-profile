@@ -152,20 +152,21 @@ params:
   # About
   about:
     enable: true
-    title: "Sobre mi"
+    title: "Sobre mí"
     image: "/images/me3.png"
     content: |-
-      Tengo 30 años, nací en Valdivia, Chile. Soy sociólogo con estudios de magíster en estadística. Me especializo en análisis de encuestas con diseño muestral complejo, modelos predictivos y visualización.
+      Tengo 30 años, nací en Valdivia, Chile. Soy sociólogo con estudios de magíster en estadística. Me he especializado en tratamiento y análisis de encuestas con diseños muestrales complejos, modelos predictivos y visualización de información. 
       
-      He tenido la suerte de desempeñarme haciendo investigación en los temas que
-      más me interesan: salud y educación en Chile y América Latina.
+      He tenido la suerte de hacer investigación en los temas que
+      más me interesan: salud y educación en Chile y América Latina. Los proyectos 
+      que aquí expongo se enmarcan en esas temáticas.
       
     skills:
       enable: true
       title: "Me motiva aprender y desarrollar aplicaciones que muestren resultados interactivos de mis proyectos de investigación:"
       items:
-        - "Python"
         - "R"
+        - "Python"
         - "Power BI"
 
   # # Experience
