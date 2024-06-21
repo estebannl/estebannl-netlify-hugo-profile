@@ -1,0 +1,11 @@
+parte quitada, linea 32
+
+D:\home\web\estebannl-profile\content\blogs\rich-content.md
+
+## Twitter Simple Shortcode
+```
+{{</* tweet GoHugoIO 1688548872690212864 */>}}
+```
+<br>
+{{< tweet GoHugoIO 1688548872690212864 >}}
+<br>
