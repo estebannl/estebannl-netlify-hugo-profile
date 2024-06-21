@@ -1,2 +1,2 @@
-# estebannl-netlify-hugo-profile
+# estebannl-profile
 My profile, built with blogdown and Hugo
