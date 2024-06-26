@@ -313,14 +313,33 @@ params:
         badges:
           - "Shiny App"
           - "R"
-          - "Shinydashboard"
+          - "ShinyDashboard"
         links:
           - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            url: mailto:?subject=Top%20Best%20Hospitals%202023&body=Te%20comparto%20esta%20App,%20sobre%20el%20Ranking%20Top%20Best%20Hospitals%202023%20desarrollada%20por%20Latam%20Business%20Conference:%20https%3A%2F%2Flbconference.shinyapps.io%2Franking23
           - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://twitter.com/intent/tweet?text=Revise%20aqu%C3%AD%20los%20resultados%20del%20Ranking%20Top%20Best%20Hospitals%202023,%20de%20las%20mejores%20cl%C3%ADnicas%20y%20hospitales%20de%20Am%C3%A9rica%20Latina%20de%20Latam%20Business%20Conference:%20https%3A%2F%2Flbconference.shinyapps.io%2Franking23
           # - icon: fab fa-github
           #   url: https://github.com/gurusabarish/hugo-profile
+      
+      - title: '[En desarrollo] Trabajo profesional en Chile 2010-2024'
+        content: Evolución de la fuerza laboral con estudios superiores en Chile y las principales características de su inserción laboral. Con datos de la Encuesta Nacional de Empleo (ENE).
+        image: /images/projects/profesionalesene.png
+        featured: 
+          name: Ir a la App
+          link: https://estebannl.shinyapps.io/profesionales-chile/
+        badges:
+          - "Shiny App"
+          - "R"
+          - "ShinyDashboard"
+        links: 
+          - icon: fa fa-envelope
+            url: mailto:?subject=Trabajo%20profesional%20en%20Chile%202010-2024&body=Revisa%20aquí%20este%20dashboard%20sobre%20el%20trabajo%20de%20los%20titulados%20de%20educación%20superior%20en%20Chile%202010-2024:%20https%3A%2F%2Festebannl.shinyapps.io%2Fprofesionales-chile%2F
+          - icon: fab fa-twitter
+            url: https://twitter.com/intent/tweet?text=Revisa%20aqu%C3%AD%20este%20dashboard%20sobre%20el%20trabajo%20de%20los%20titulados%20de%20educaci%C3%B3n%20superior%20en%20Chile%202010-2024:%20https%3A%2F%2Festebannl.shinyapps.io%2Fprofesionales-chile%2F
+
+
+    
 
 
   #Contact
