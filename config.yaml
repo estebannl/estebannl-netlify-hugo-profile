@@ -325,7 +325,7 @@ params:
 
     
       - title: 'Cáncer en Chile 1998-2019'
-        content: Desarrollo y características de los diagnósticos de cáncer en Chile, a partir de los datos públicos de los Registros Poblacionales de Cáncer, Ministerio de Salud. Interactiva según diagnóstico, entrega una mirada descriptiva.
+        content: Proyecto individual. Desarrollo y características de los diagnósticos de cáncer en Chile, a partir de los datos públicos de los Registros Poblacionales de Cáncer, Ministerio de Salud. App interactiva según diagnóstico, entrega una mirada descriptiva.
         image: /images/projects/epicancer.png
         featured: 
           name: Ir a la App
@@ -339,6 +339,7 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Revise%20aqu%C3%AD%20esta%20App%2C%20donde%20podr%C3%A1%20revisar%20las%20estad%C3%ADsticas%20de%20los%20Registros%20Poblacionales%20de%20C%C3%A1ncer%2C%20desde%201998%20en%20adelante%3A%20https%3A%2F%2Fcancer-chile.streamlit.app%2F
             
+      
       # - title: '[En desarrollo] Trabajo profesional en Chile 2010-2024'
       #   content: Evolución de la fuerza laboral con estudios superiores en Chile y las principales características de su inserción laboral. Con datos de la Encuesta Nacional de Empleo (ENE).
       #   image: /images/projects/profesionalesene.png
@@ -373,9 +374,41 @@ params:
           # - icon: fab fa-github
           #   url: https://github.com/gurusabarish/hugo-profile
       
+      - title: 'Encuesta ENSSEX 2022-23: Análisis de No Respuesta'
+        content: "Analista estadístico en el estudio de sesgo de la no respuesta al módulo de hogares de la Encuesta Nacional de Salud, Sexualidad y Género, Ministerio de Salud"
+        image: /images/projects/enssexsesgo2.png
+        featured: 
+          name: Revisar Documento
+          link: https://epi.minsal.cl/wp-content/uploads/2024/05/MINSAL_ENSSEX-2022-2023-Informe-de-no-respuesta-ingresos.pdf
+        badges:
+          - 'R'
+        # links: 
+          # - icon: fa fa-envelope
+          #   url: mailto:?subject=C%C3%A1ncer%20en%20Chile%201998-2019&body=Revise%20aqu%C3%AD%20esta%20App%2C%20donde%20podr%C3%A1%20revisar%20las%20estad%C3%ADsticas%20de%20los%20Registros%20Poblacionales%20de%20C%C3%A1ncer%2C%20desde%201998%20en%20adelante%3A%20https%3A%2F%2Fcancer-chile.streamlit.app%2F
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Revise%20aqu%C3%AD%20esta%20App%2C%20donde%20podr%C3%A1%20revisar%20las%20estad%C3%ADsticas%20de%20los%20Registros%20Poblacionales%20de%20C%C3%A1ncer%2C%20desde%201998%20en%20adelante%3A%20https%3A%2F%2Fcancer-chile.streamlit.app%2F
 
+      - title: 'Encuesta ENSSEX 2022-23: Resultados Principales'
+        content: "Analista estadístico en la generación de resultados de la Encuesta Nacional de Salud, Sexualidad y Género, Ministerio de Salud"
+        image: /images/projects/enssexresultados.png
+        featured: 
+          name: Revisar Documento
+          link: https://epi.minsal.cl/wp-content/uploads/2024/05/MINSAL_ENSSEX_2022_2023_Informe_ejecutivo.pdf
+        badges:
+          - 'R'
+          
 
-    
+      - title: 'Informes Regionales ENCAVI 2015-16'
+        content: "Analista en validación de índices y generación de los Informes Regionales de la Encuesta Nacional de Calidad de Vida y Salud 2015-16, Ministerio de Salud. Disponibles en: https://epi.minsal.cl/resultados-encuestas/"
+        image: /images/projects/encavi2015.png
+        featured: 
+          name: Región Metropolitana
+          link: https://epi.minsal.cl/wp-content/uploads/2018/11/13_ENCAVI_regiones_metropolitana.pdf
+        badges:
+          - 'SPSS'
+          
+        
+
 
 
   #Contact
